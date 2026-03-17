@@ -6,8 +6,8 @@ A full-stack MERN application that allows users to browse dentists, book appoint
 
 ## 🚀 Live Demo
 
-* 🌐 Frontend (Vercel): https://your-vercel-link.vercel.app
-* 🔗 Backend (Render): https://your-render-link.onrender.com
+* 🌐 Frontend (Vercel): https://dentist-appointment-sigma.vercel.app/login
+* 🔗 Backend (Render): https://dentist-appointment-26n2.onrender.com
 
 ---
 
